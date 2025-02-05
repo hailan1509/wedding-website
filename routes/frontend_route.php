@@ -28,7 +28,7 @@ Route::get('/invitation/{id}',function(Request $request,$id){
     else{
         $data['event_name'] = 'LỄ CƯỚI NHÀ NỮ';
         $data['event_time'] = '17:00 PM';
-        $data['event_date'] = 'Chủ nhật, NGÀY 15/02/2025';
+        $data['event_date'] = 'Thứ bảy, NGÀY 15/02/2025';
         $data['event_date_dot'] = '16.02.2025';
         $data['event_address'] = 'Thôn Kim Đôi - Xã Cẩm Hoàng - Cẩm Giàng - HD';
     }
