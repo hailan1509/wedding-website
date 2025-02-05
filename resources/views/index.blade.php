@@ -497,7 +497,7 @@
                                  <li style="min-height: 60px;">
                                     Thôn Kim Đôi - Xã Cẩm Hoàng - Cẩm Giàng - Hải Dương
                                  </li>
-                                 <li> <a  href="https://maps.app.goo.gl/WH7FGdh6ufsocRwAA" target="_blank">xem bản đồ </a></li>
+                                 <li> <a  href="https://maps.app.goo.gl/ESda487r7To7NHoVA" target="_blank">xem bản đồ </a></li>
                                  {{--  <li>
                                     <div class="calendar-button">
                                        <div class="atcb" style="display:none;">
