@@ -70,9 +70,9 @@
                                  <li class="menu-item-has-children">
                                     <a href="#">Home</a>
                                  </li>
-                                 {{--  <li class="menu-item-has-children">
+                                 <li class="menu-item-has-children">
                                     <a href="#couple">Cặp đôi</a>
-                                 </li>  --}}
+                                 </li>
                                  {{--  <li class="menu-item-has-children">
                                     <a href="#story">Chuyện tình yêu</a>
                                  </li>  --}}
@@ -174,7 +174,7 @@
                </div>
             </div>
          </section>
-         {{--  <section class="couple-section section-padding" >
+         <section class="couple-section section-padding" >
             <div class="_anchor" id="couple"></div>
             <div class="container">
                <div class="row align-items-center">
@@ -185,7 +185,7 @@
                               <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/3b9425a4181f4f44582ee25a7929835c.jpeg" alt="">
                            </div>
                            <h3 class="font-family-title2">Đinh Văn Hải</h3>
-                           <p>Là kỹ sư điện hiện đang công tác tại Hà Nội. Là một người hiền lành và ít nói. Luôn coi trọng tình cảm và yêu thương gia đình. Với anh: “Gia đình là điểm tựa vững chắc nhất và là bến đỗ bình yên không đâu sánh bằng đối với mỗi con người. Đó luôn là nơi tràn ngập tình yêu thương để ta trở về.”</p>
+                           {{--  <p>Là kỹ sư điện hiện đang công tác tại Hà Nội. Là một người hiền lành và ít nói. Luôn coi trọng tình cảm và yêu thương gia đình. Với anh: “Gia đình là điểm tựa vững chắc nhất và là bến đỗ bình yên không đâu sánh bằng đối với mỗi con người. Đó luôn là nơi tràn ngập tình yêu thương để ta trở về.”</p>  --}}
                            <div class="social">
                               <ul>
                               </ul>
@@ -200,7 +200,7 @@
                               <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/7cbf7f3e546a73956cad896d4f8ed391.jpeg" alt="">
                            </div>
                            <h3 class="font-family-title2" >Cù Thị Lan</h3>
-                           <p>Cô gái đến từ xứ Thanh, hiện đang sinh sống và làm việc tại Hà Nội. Là một người hay cười nhưng lại sống nội tâm, thích đọc sách, trồng cây và yêu thiên nhiên. Ngoài ra còn rất thích vẽ vời, nuôi mèo và nuôi ước mơ có cho mình một vườn hồng khoe sắc.
+                           {{--  <p>Cô gái đến từ xứ Thanh, hiện đang sinh sống và làm việc tại Hà Nội. Là một người hay cười nhưng lại sống nội tâm, thích đọc sách, trồng cây và yêu thiên nhiên. Ngoài ra còn rất thích vẽ vời, nuôi mèo và nuôi ước mơ có cho mình một vườn hồng khoe sắc.  --}}
                            </p>
                            <div class="social">
                               <ul>
@@ -211,7 +211,7 @@
                   </div>
                </div>
             </div>
-         </section>  --}}
+         </section>
          {{--  <section class="wpo-video-section-s2">
             <div class="wpo-video-item">
                <div class="wpo-video-img" style="background: url(https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/templates/62ef3cdcf106ea77bb276cc5/2eb594a10c2b0de891d37e2355879384.jpg) center center/cover no-repeat local;min-height:500px">
