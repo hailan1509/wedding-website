@@ -136,7 +136,7 @@
                      </div>
                   </div>
                   <div class="swiper-slide">
-                     <div class="slide-inner slide-bg-image" data-background="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/templates/62ef3cdcf106ea77bb276cc5/fd6ce548dcb3b379d6b84d10389f11c3.jpg">
+                     <div class="slide-inner slide-bg-image" data-background="{{ asset('assets/frontend/image/anh-cuoi/slide-3.JPG') }}">
                         <div class="container-fluid">
                            <div class="slide-content">
                               <div data-swiper-parallax="300" class="slide-title">
@@ -490,7 +490,7 @@
                            <div class="wpo-event-text">
                               <h2 style="margin-bottom:10px">TIỆC CƯỚI NHÀ NỮ</h2>
                               <div class="image-wrap">
-                                 <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/1d8c7f5e94f6843af2c3f26a5f77a7c8.jpeg" alt="TIỆC CƯỚI NHÀ NỮ">
+                                 <img src="{{ asset('assets/frontend/image/anh-cuoi/co_dau.JPG') }}" alt="TIỆC CƯỚI NHÀ NỮ">
                               </div>
                               <ul>
                                  <li>17:00, 15-02-2025</li>
@@ -534,7 +534,7 @@
                            <div class="wpo-event-text">
                               <h2 style="margin-bottom:10px">LỄ THÀNH HÔN</h2>
                               <div class="image-wrap">
-                                 <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/7158f2fca40119991e19ee1c2cada69e.jpeg" alt="LỄ THÀNH HÔN">
+                                 <img src="{{ asset('assets/frontend/image/anh-cuoi/anh-doi.JPG') }}" alt="LỄ THÀNH HÔN">
                               </div>
                               <ul>
                                  <li>14:00, 16-02-2025</li>
@@ -578,7 +578,7 @@
                            <div class="wpo-event-text">
                               <h2 style="margin-bottom:10px">TIỆC CƯỚI NHÀ NAM</h2>
                               <div class="image-wrap">
-                                 <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/f13ae16a9d6c756734214827d8e458be.jpeg" alt="TIỆC CƯỚI NHÀ NAM">
+                                 <img src="{{ asset('assets/frontend/image/anh-cuoi/chu_re.JPG') }}" alt="TIỆC CƯỚI NHÀ NAM">
                               </div>
                               <ul>
                                  <li>10:00, 16-02-2025</li>

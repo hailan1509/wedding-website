@@ -354,7 +354,7 @@
         color: #f60d54;
     }
 </style>
-<img src="https://cdn.biihappy.com/ziiweb/website/65203311c4a03f7aa5055074/e62d3e33e3c8cbe31d0d6a5eb8e32799.jpeg" style="display:none;"/>
+<img src="{{ asset('assets/frontend/image/anh-cuoi/anh-doi-resize.JPG') }}" style="display:none;"/>
 <div class="invitation-container">
     <div style="height: 100%;margin: 10px;">
         <canvas class="invitation-card" id="invitation-card"></canvas>
