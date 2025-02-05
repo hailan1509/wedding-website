@@ -544,7 +544,7 @@
                                  <li style="min-height: 60px;">
                                     156 Ngô Quyền - TP Hải Dương - Hải Dương
                                  </li>
-                                 <li> <a  href="https://maps.app.goo.gl/W4HsHksHGmZH9rJ97" target="_blank">xem bản đồ </a></li>
+                                 <li> <a  href="https://maps.app.goo.gl/TJSNpsE3ZxvEuiUc9" target="_blank">xem bản đồ </a></li>
                                  {{--  <li>
                                     <div class="calendar-button">
                                        <div class="atcb" style="display:none;">
@@ -589,7 +589,7 @@
                                     <span></span>
                                     156 Ngô Quyền - TP Hải Dương - Hải Dương
                                  </li>
-                                 <li> <a  href="https://maps.app.goo.gl/Mp1qEJ9aBpT82MMG9" target="_blank">xem bản đồ </a></li>
+                                 <li> <a  href="https://maps.app.goo.gl/TJSNpsE3ZxvEuiUc9" target="_blank">xem bản đồ </a></li>
                                  {{--  <li>
                                     <div class="calendar-button">
                                        <div class="atcb" style="display:none;">
