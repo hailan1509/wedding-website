@@ -73,9 +73,9 @@
                                  <li class="menu-item-has-children">
                                     <a href="#couple">Cặp đôi</a>
                                  </li>
-                                 <li class="menu-item-has-children">
+                                 {{--  <li class="menu-item-has-children">
                                     <a href="#story">Chuyện tình yêu</a>
-                                 </li>
+                                 </li>  --}}
                                  <li class="menu-item-has-children">
                                     <a href="#gallery">Album Hình Cưới</a>
                                  </li>
@@ -221,7 +221,7 @@
                </div>
             </div>
          </section>  --}}
-         <section class="story-section section-padding" >
+         {{--  <section class="story-section section-padding" >
             <div class="_anchor" id="story"></div>
             <div class="container">
                <div class="row">
@@ -324,7 +324,7 @@
                   </div>
                </div>
             </div>
-         </section>
+         </section>  --}}
          <div class="wpo-cta-section-s3 " style="background: url(https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/templates/62ef3cdcf106ea77bb276cc5/5a73cdcc2fea3207817a79d8cff3e34a.jpg) center center/cover no-repeat local;">
             <div class="conatiner-fluid">
                <div class="wpo-cta-item">
