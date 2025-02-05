@@ -496,7 +496,7 @@
                                  <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/1d8c7f5e94f6843af2c3f26a5f77a7c8.jpeg" alt="TIỆC CƯỚI NHÀ NỮ">
                               </div>
                               <ul>
-                                 <li>10:00, 16-02-2025</li>
+                                 <li>17:00, 15-02-2025</li>
                                  <li style="min-height: 60px;">
                                     Thôn Kim Đôi - Xã Cẩm Hoàng - Cẩm Giàng - Hải Dương
                                  </li>
