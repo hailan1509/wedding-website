@@ -192,7 +192,7 @@
                            </div>
                         </div>
                         <div class="middle-couple-pic">
-                           <img src="{{ asset('assets/frontend/image/anh-cuoi/anh-doi-1.jpg') }}" style="max-height:660px;" alt="">
+                           <img src="{{ asset('assets/frontend/image/anh-cuoi/anh-doi-1.JPG') }}" style="max-height:660px;" alt="">
                            <div class="frame-img"><img src="https://dinhanhhoangyen.iwedding.info/templates/template17/images/couple/shape.png" alt=""></div>
                         </div>
                         <div class="text-grid groom">

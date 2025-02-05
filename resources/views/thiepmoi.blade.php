@@ -13,9 +13,9 @@
     <meta property="og:title" content="Thân gửi {{$data['guest_name']}} ! - Thiệp mời đám cưới online" />
     <meta property="og:url" content="https://truongtrangwd.iwedding.info/invitation/65211658aebe1d079803e9d2" />
     <meta property="og:description" content="Trân trọng kính mời {{$data['guest_name']}} đến tham dự buổi tiệc chung vui cùng gia đình chúng tôi!" />
-    <meta property="og:image" content="{{ asset('assets/frontend/image/anh-cuoi/anh-doi.jpg') }}" /> // ảnh preview
-    <meta property="og:image:url" content="{{ asset('assets/frontend/image/anh-cuoi/anh-doi.jpg') }}" /> // ảnh preview
-    <meta property="og:image:secure_url" content="{{ asset('assets/frontend/image/anh-cuoi/anh-doi.jpg') }}" /> // ảnh preview
+    <meta property="og:image" content="{{ asset('assets/frontend/image/anh-cuoi/anh-doi.jpg') }}" />
+    <meta property="og:image:url" content="{{ asset('assets/frontend/image/anh-cuoi/anh-doi.jpg') }}" />
+    <meta property="og:image:secure_url" content="{{ asset('assets/frontend/image/anh-cuoi/anh-doi.jpg') }}" />
     <link rel="shortcut icon" type="image/x-icon" href="https://iwedding.info/favicon.ico"><link href="https://fonts.googleapis.com/css2?family=Jura:wght@300&family=MonteCarlo&family=Tourney:wght@100&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://truongtrangwd.iwedding.info/invitation/style.css?v=20241227">
     <link href="https://fonts.googleapis.com/css2?family=Coiny&family=Quicksand:wght@300;400;500;600;700&family=Roboto:wght@100&display=swap" rel="stylesheet">
