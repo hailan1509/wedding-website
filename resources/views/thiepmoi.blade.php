@@ -6,16 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="author" content="Biihappy">
     <title>Kính gửi {{$data['guest_name']}} ! - Thiệp mời đám cưới online</title>
-    <meta name="description" content="Trân trọng kính mời Đặng Văn Trường đến tham dự buổi tiệc chung vui cùng gia đình chúng tôi!" />
+    <meta name="description" content="Trân trọng kính mời {{$data['guest_name']}} đến tham dự buổi tiệc chung vui cùng gia đình chúng tôi!" />
     <meta name="keywords" content="Wedding, Wedding website, Website đám cưới, Tạo website đám cưới miễn phí" />
-    <meta property="og:site_name" content="Đặng Trường &amp; Hà Trang Wedding site!">
+    <meta property="og:site_name" content="Đinh Hải &amp; Cù Lan Wedding site!">
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Kính gửi {{$data['guest_name']}} ! - Thiệp mời đám cưới online" />
+    <meta property="og:title" content="Thân gửi {{$data['guest_name']}} ! - Thiệp mời đám cưới online" />
     <meta property="og:url" content="https://truongtrangwd.iwedding.info/invitation/65211658aebe1d079803e9d2" />
     <meta property="og:description" content="Trân trọng kính mời {{$data['guest_name']}} đến tham dự buổi tiệc chung vui cùng gia đình chúng tôi!" />
-    <meta property="og:image" content="https://cdn.biihappy.com/ziiweb/website/65203311c4a03f7aa5055074/e62d3e33e3c8cbe31d0d6a5eb8e32799.jpeg" />
-    <meta property="og:image:url" content="https://cdn.biihappy.com/ziiweb/website/65203311c4a03f7aa5055074/e62d3e33e3c8cbe31d0d6a5eb8e32799.jpeg" />
-    <meta property="og:image:secure_url" content="https://cdn.biihappy.com/ziiweb/website/65203311c4a03f7aa5055074/e62d3e33e3c8cbe31d0d6a5eb8e32799.jpeg" />
+    <meta property="og:image" content="{{ asset('assets/frontend/image/anh-cuoi/anh-doi.jpg') }}" /> // ảnh preview
+    <meta property="og:image:url" content="{{ asset('assets/frontend/image/anh-cuoi/anh-doi.jpg') }}" /> // ảnh preview
+    <meta property="og:image:secure_url" content="{{ asset('assets/frontend/image/anh-cuoi/anh-doi.jpg') }}" /> // ảnh preview
     <link rel="shortcut icon" type="image/x-icon" href="https://iwedding.info/favicon.ico"><link href="https://fonts.googleapis.com/css2?family=Jura:wght@300&family=MonteCarlo&family=Tourney:wght@100&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://truongtrangwd.iwedding.info/invitation/style.css?v=20241227">
     <link href="https://fonts.googleapis.com/css2?family=Coiny&family=Quicksand:wght@300;400;500;600;700&family=Roboto:wght@100&display=swap" rel="stylesheet">

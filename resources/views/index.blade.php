@@ -21,7 +21,7 @@
       <link rel="shortcut icon" type="image/x-icon" href="https://iwedding.info/favicon.ico">
       <link href="https://dinhanhhoangyen.iwedding.info/templates/template17/css/libs.css?v=20241021" rel="stylesheet">
       <link href="https://dinhanhhoangyen.iwedding.info/common/calendar.css?v=20241021" rel="stylesheet">
-      <link href="https://dinhanhhoangyen.iwedding.info/templates/template17/css/style.css?v=20241021" rel="stylesheet">
+      <link href="{{ asset('assets/frontend/css/style.css') }}" rel="stylesheet">
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-K9L0ZFE1PJ"></script>
       <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-K9L0ZFE1PJ');</script>
    </head>
@@ -94,7 +94,7 @@
             <div class="swiper-container">
                <div class="swiper-wrapper">
                   <div class="swiper-slide">
-                     <div class="slide-inner slide-bg-image" data-background="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/templates/62ef3cdcf106ea77bb276cc5/e629b6a8221cd21d09fb5ed0342883ae.jpg">
+                     <div class="slide-inner slide-bg-image" data-background="{{ asset('assets/frontend/image/anh-cuoi/slide-1.JPG') }}">
                         <div class="container-fluid">
                            <div class="slide-content">
                               <div data-swiper-parallax="300" class="slide-title">
@@ -115,7 +115,7 @@
                      </div>
                   </div>
                   <div class="swiper-slide">
-                     <div class="slide-inner slide-bg-image" data-background="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/templates/62ef3cdcf106ea77bb276cc5/9a4904d2f37828bbfd4c4c29b9ae3e34.jpg">
+                     <div class="slide-inner slide-bg-image" data-background="{{ asset('assets/frontend/image/anh-cuoi/slide-2.JPG') }}">
                         <div class="container-fluid">
                            <div class="slide-content">
                               <div data-swiper-parallax="300" class="slide-title">
@@ -182,7 +182,7 @@
                      <div class="couple-area clearfix">
                         <div class="text-grid bride">
                            <div class="couple-img">
-                              <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/3b9425a4181f4f44582ee25a7929835c.jpeg" alt="">
+                              <img src="{{ asset('assets/frontend/image/anh-cuoi/chu_re.JPG') }}" alt="">
                            </div>
                            <h3 class="font-family-title2 text-center">Đinh Văn Hải</h3>
                            {{--  <p>Là kỹ sư điện hiện đang công tác tại Hà Nội. Là một người hiền lành và ít nói. Luôn coi trọng tình cảm và yêu thương gia đình. Với anh: “Gia đình là điểm tựa vững chắc nhất và là bến đỗ bình yên không đâu sánh bằng đối với mỗi con người. Đó luôn là nơi tràn ngập tình yêu thương để ta trở về.”</p>  --}}
@@ -192,12 +192,12 @@
                            </div>
                         </div>
                         <div class="middle-couple-pic">
-                           <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/templates/62ef3cdcf106ea77bb276cc5/641d7b0926f826bbf877b63008528e9e.jpg" style="max-height:660px;" alt="">
+                           <img src="{{ asset('assets/frontend/image/anh-cuoi/anh-doi-1.jpg') }}" style="max-height:660px;" alt="">
                            <div class="frame-img"><img src="https://dinhanhhoangyen.iwedding.info/templates/template17/images/couple/shape.png" alt=""></div>
                         </div>
                         <div class="text-grid groom">
                            <div class="couple-img">
-                              <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/7cbf7f3e546a73956cad896d4f8ed391.jpeg" alt="">
+                              <img src="{{ asset('assets/frontend/image/anh-cuoi/co_dau.JPG') }}" alt="">
                            </div>
                            <h3 class="font-family-title2 text-center" >Cù Thị Lan</h3>
                            {{--  <p>Cô gái đến từ xứ Thanh, hiện đang sinh sống và làm việc tại Hà Nội. Là một người hay cười nhưng lại sống nội tâm, thích đọc sách, trồng cây và yêu thiên nhiên. Ngoài ra còn rất thích vẽ vời, nuôi mèo và nuôi ước mơ có cho mình một vườn hồng khoe sắc.  --}}
