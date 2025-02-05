@@ -70,9 +70,9 @@
                                  <li class="menu-item-has-children">
                                     <a href="#">Home</a>
                                  </li>
-                                 <li class="menu-item-has-children">
+                                 {{--  <li class="menu-item-has-children">
                                     <a href="#couple">Cặp đôi</a>
-                                 </li>
+                                 </li>  --}}
                                  {{--  <li class="menu-item-has-children">
                                     <a href="#story">Chuyện tình yêu</a>
                                  </li>  --}}
@@ -174,7 +174,7 @@
                </div>
             </div>
          </section>
-         <section class="couple-section section-padding" >
+         {{--  <section class="couple-section section-padding" >
             <div class="_anchor" id="couple"></div>
             <div class="container">
                <div class="row align-items-center">
@@ -211,7 +211,7 @@
                   </div>
                </div>
             </div>
-         </section>
+         </section>  --}}
          {{--  <section class="wpo-video-section-s2">
             <div class="wpo-video-item">
                <div class="wpo-video-img" style="background: url(https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/templates/62ef3cdcf106ea77bb276cc5/2eb594a10c2b0de891d37e2355879384.jpg) center center/cover no-repeat local;min-height:500px">
