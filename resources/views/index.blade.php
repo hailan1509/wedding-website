@@ -82,9 +82,6 @@
                                  <li class="menu-item-has-children">
                                     <a href="#event">Sự kiện cưới</a>
                                  </li>
-                                 <li class="menu-item-has-children">
-                                    <a href="#donate">Hộp mừng cưới</a>
-                                 </li>
                               </ul>
                            </div>
                         </div>
