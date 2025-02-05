@@ -474,10 +474,10 @@
     const venue_name = '{{$data['event_address']}}';
     const invitationInfo = {
         'templateID': 'h4',
-        'groom_name': 'Nguyễn Đình Anh',
-        'bride_name': 'Lê Nguyễn Hoàng Yến',
-        'groom_name_short': 'Đình Anh',
-        'bride_name_short': 'Hoàng Yến',
+        'groom_name': 'Nguyễn Đinh Hải',
+        'bride_name': 'Lê Nguyễn Cù Lan',
+        'groom_name_short': 'Đinh Hải',
+        'bride_name_short': 'Cù Lan',
         'groom_name_one': 'A',
         'bride_name_one': 'Y',
         'guest_name': guest_name,

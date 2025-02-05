@@ -4,17 +4,17 @@
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>Nguyễn Đình Anh &amp; Lê Nguyễn Hoàng Yến Wedding !</title>
-      <meta name="description" content="Nguyễn Đình Anh &amp; Lê Nguyễn Hoàng Yến - Our wedding date: 2024-12-02 | Một cuộc hôn nhân thành công đòi hỏi phải yêu nhiều lần, luôn ở cùng một người">
-      <meta name="keywords" content="Wedding, Wedding website, Website đám cưới, Đám cưới Đình Anh - Hoàng Yến">
+      <title>Đinh Văn Hải &amp; Cù Thị Lan Wedding !</title>
+      <meta name="description" content="Đinh Văn Hải &amp; Cù Thị Lan - Our wedding date: 2025-02-16 | Một cuộc hôn nhân thành công đòi hỏi phải yêu nhiều lần, luôn ở cùng một người">
+      <meta name="keywords" content="Wedding, Wedding website, Website đám cưới, Đám cưới Đinh Hải - Cù Lan">
       <meta name="format-detection" content="telephone=no">
       <meta name="application-name" content="iWedding">
       <meta name="author" content="Biihappy.com">
-      <meta property="og:site_name" content="Nguyễn Đình Anh &amp; Lê Nguyễn Hoàng Yến">
+      <meta property="og:site_name" content="Đinh Văn Hải &amp; Cù Thị Lan">
       <meta property="og:type" content="website">
-      <meta property="og:title" content="Nguyễn Đình Anh &amp; Lê Nguyễn Hoàng Yến Wedding !">
+      <meta property="og:title" content="Đinh Văn Hải &amp; Cù Thị Lan Wedding !">
       <meta property="og:url" content="https://dinhanhhoangyen.iwedding.info">
-      <meta property="og:description" content="Nguyễn Đình Anh &amp; Lê Nguyễn Hoàng Yến - Our wedding date: 2024-12-02 | Một cuộc hôn nhân thành công đòi hỏi phải yêu nhiều lần, luôn ở cùng một người">
+      <meta property="og:description" content="Đinh Văn Hải &amp; Cù Thị Lan - Our wedding date: 2025-02-16 | Một cuộc hôn nhân thành công đòi hỏi phải yêu nhiều lần, luôn ở cùng một người">
       <meta property="og:image" content="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/96bd34063222860361fff09bb2356664.jpeg">
       <meta property="og:image:url" content="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/96bd34063222860361fff09bb2356664.jpeg">
       <meta property="og:image:secure_url" content="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/96bd34063222860361fff09bb2356664.jpeg">
@@ -59,7 +59,7 @@
                         <div class="col-lg-2 col-md-6 col-6">
                            <div class="navbar-header">
                               <a href="/">
-                                 <h1 style="font-size:25px">ĐA<span class="main-color" ><i class="fa fa-heart" style="margin:5px 5px 5px 10px;" ></i></span>HY</h1>
+                                 <h1 style="font-size:25px">ĐH<span class="main-color" ><i class="fa fa-heart" style="margin:5px 5px 5px 10px;" ></i></span>CL</h1>
                               </a>
                            </div>
                         </div>
@@ -101,11 +101,11 @@
                         <div class="container-fluid">
                            <div class="slide-content">
                               <div data-swiper-parallax="300" class="slide-title">
-                                 <h2 class="font-size-slide-content font-family-title1">Đình Anh <i class="ti-heart"></i> Hoàng Yến</h2>
+                                 <h2 class="font-size-slide-content font-family-title1">Đinh Hải <i class="ti-heart"></i> Cù Lan</h2>
                               </div>
                               <div data-swiper-parallax="400" class="slide-text">
                                  <p>We’re Getting Married!</p>
-                                 <p>02 / 12 / 2024</p>
+                                 <p>16 / 02 / 2025</p>
                               </div>
                               <div class="border-1"></div>
                               <div class="border-2"></div>
@@ -122,11 +122,11 @@
                         <div class="container-fluid">
                            <div class="slide-content">
                               <div data-swiper-parallax="300" class="slide-title">
-                                 <h2 class="font-size-slide-content font-family-title1">Đình Anh <i class="ti-heart"></i> Hoàng Yến</h2>
+                                 <h2 class="font-size-slide-content font-family-title1">Đinh Hải <i class="ti-heart"></i> Cù Lan</h2>
                               </div>
                               <div data-swiper-parallax="400" class="slide-text">
                                  <p>We’re Getting Married!</p>
-                                 <p>02 / 12 / 2024</p>
+                                 <p>16 / 02 / 2025</p>
                               </div>
                               <div class="border-1"></div>
                               <div class="border-2"></div>
@@ -143,11 +143,11 @@
                         <div class="container-fluid">
                            <div class="slide-content">
                               <div data-swiper-parallax="300" class="slide-title">
-                                 <h2 class="font-size-slide-content font-family-title1">Đình Anh <i class="ti-heart"></i> Hoàng Yến</h2>
+                                 <h2 class="font-size-slide-content font-family-title1">Đinh Hải <i class="ti-heart"></i> Cù Lan</h2>
                               </div>
                               <div data-swiper-parallax="400" class="slide-text">
                                  <p>We’re Getting Married!</p>
-                                 <p>02 / 12 / 2024</p>
+                                 <p>16 / 02 / 2025</p>
                               </div>
                               <div class="border-1"></div>
                               <div class="border-2"></div>
@@ -171,7 +171,7 @@
                <div class="row">
                   <div class="col col-xs-12">
                      <div class="clock-grids">
-                        <div id="clock1" data-date="2024-12-02" data-text-day="Ngày" data-text-hour="Giờ" data-text-minute="Phút" data-text-second="Giây"></div>
+                        <div id="clock1" data-date="2025-02-16" data-text-day="Ngày" data-text-hour="Giờ" data-text-minute="Phút" data-text-second="Giây"></div>
                      </div>
                   </div>
                </div>
@@ -187,7 +187,7 @@
                            <div class="couple-img">
                               <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/3b9425a4181f4f44582ee25a7929835c.jpeg" alt="">
                            </div>
-                           <h3 class="font-family-title2">Nguyễn Đình Anh</h3>
+                           <h3 class="font-family-title2">Đinh Văn Hải</h3>
                            <p>Là kỹ sư điện hiện đang công tác tại Hà Nội. Là một người hiền lành và ít nói. Luôn coi trọng tình cảm và yêu thương gia đình. Với anh: “Gia đình là điểm tựa vững chắc nhất và là bến đỗ bình yên không đâu sánh bằng đối với mỗi con người. Đó luôn là nơi tràn ngập tình yêu thương để ta trở về.”</p>
                            <div class="social">
                               <ul>
@@ -202,7 +202,7 @@
                            <div class="couple-img">
                               <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/7cbf7f3e546a73956cad896d4f8ed391.jpeg" alt="">
                            </div>
-                           <h3 class="font-family-title2" >Lê Nguyễn Hoàng Yến</h3>
+                           <h3 class="font-family-title2" >Cù Thị Lan</h3>
                            <p>Cô gái đến từ xứ Thanh, hiện đang sinh sống và làm việc tại Hà Nội. Là một người hay cười nhưng lại sống nội tâm, thích đọc sách, trồng cây và yêu thiên nhiên. Ngoài ra còn rất thích vẽ vời, nuôi mèo và nuôi ước mơ có cho mình một vườn hồng khoe sắc.
                            </p>
                            <div class="social">
@@ -215,7 +215,7 @@
                </div>
             </div>
          </section>
-         <section class="wpo-video-section-s2">
+         {{--  <section class="wpo-video-section-s2">
             <div class="wpo-video-item">
                <div class="wpo-video-img" style="background: url(https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/templates/62ef3cdcf106ea77bb276cc5/2eb594a10c2b0de891d37e2355879384.jpg) center center/cover no-repeat local;min-height:500px">
                   <h2 class="font-family-title2">Xem video cưới của chúng tôi</h2>
@@ -223,7 +223,7 @@
                   <a href="https://www.youtube.com/embed/Fw_tS4FVv90" class="video-btn" data-type="iframe"><i class="fi flaticon-play"></i></a>
                </div>
             </div>
-         </section>
+         </section>  --}}
          <section class="story-section section-padding" >
             <div class="_anchor" id="story"></div>
             <div class="container">
@@ -496,23 +496,22 @@
                                  <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/1d8c7f5e94f6843af2c3f26a5f77a7c8.jpeg" alt="TIỆC CƯỚI NHÀ NỮ">
                               </div>
                               <ul>
-                                 <li>16:30, 2024-12-01</li>
+                                 <li>10:00, 16-02-2025</li>
                                  <li style="min-height: 60px;">
-                                    <span>Tư gia nhà Gái - </span>
-                                    Thôn Thành Sơn - Xã Thành Lộc - Hậu Lộc - Thanh Hóa
+                                    Thôn Kim Đôi - Xã Cẩm Hoàng - Cẩm Giàng - Hải Dương
                                  </li>
                                  <li> <a  href="https://maps.app.goo.gl/WH7FGdh6ufsocRwAA" target="_blank">xem bản đồ </a></li>
-                                 <li>
+                                 {{--  <li>
                                     <div class="calendar-button">
                                        <div class="atcb" style="display:none;">
                                           {
-                                          "name":"TIỆC CƯỚI NHÀ NỮ (Đám cưới Đình Anh và Hoàng Yến)",
+                                          "name":"TIỆC CƯỚI NHÀ NỮ (Đám cưới Đinh Hải và Cù Lan)",
                                           "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. Thông tin chi tiết xem tại website:<br>[url]https://dinhanhhoangyen.iwedding.info[/url]",
                                           "startDate":"2024-12-01",
                                           "endDate":"2024-12-01",
                                           "startTime":"16:30",
                                           "endTime":"16:30",
-                                          "location":"Thôn Thành Sơn - Xã Thành Lộc - Hậu Lộc - Thanh Hóa",
+                                          "location":"Thôn Kim Đôi - Xã Cẩm Hoàng - Cẩm Giàng - Hải Dương",
                                           "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
                                           "timeZone":"Asia/Ho_Chi_Minh",
                                           "iCalFileName":"Reminder-Event",
@@ -522,7 +521,7 @@
                                           }
                                        </div>
                                     </div>
-                                 </li>
+                                 </li>  --}}
                               </ul>
                            </div>
                            <div class="event-shape-1">
@@ -541,20 +540,19 @@
                                  <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/7158f2fca40119991e19ee1c2cada69e.jpeg" alt="LỄ THÀNH HÔN">
                               </div>
                               <ul>
-                                 <li>10:30, 2024-12-02</li>
+                                 <li>14:00, 16-02-2025</li>
                                  <li style="min-height: 60px;">
-                                    <span>Tư gia nhà Trai - </span>
-                                    Ngõ 1 - Đường Đê Đáy - Xã Hoàng Diệu - Huyện Chương Mỹ - TP Hà Nội
+                                    156 Ngô Quyền - TP Hải Dương - Hải Dương
                                  </li>
                                  <li> <a  href="https://maps.app.goo.gl/W4HsHksHGmZH9rJ97" target="_blank">xem bản đồ </a></li>
-                                 <li>
+                                 {{--  <li>
                                     <div class="calendar-button">
                                        <div class="atcb" style="display:none;">
                                           {
-                                          "name":"LỄ THÀNH HÔN (Đám cưới Đình Anh và Hoàng Yến)",
+                                          "name":"LỄ THÀNH HÔN (Đám cưới Đinh Hải và Cù Lan)",
                                           "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. Thông tin chi tiết xem tại website:<br>[url]https://dinhanhhoangyen.iwedding.info[/url]",
-                                          "startDate":"2024-12-02",
-                                          "endDate":"2024-12-02",
+                                          "startDate":"2025-02-16",
+                                          "endDate":"2025-02-16",
                                           "startTime":"10:30",
                                           "endTime":"10:30",
                                           "location":"Ngõ 1 - Đường Đê Đáy - Xã Hoàng Diệu - Huyện Chương Mỹ - TP Hà Nội",
@@ -567,7 +565,7 @@
                                           }
                                        </div>
                                     </div>
-                                 </li>
+                                 </li>  --}}
                               </ul>
                            </div>
                            <div class="event-shape-1">
@@ -586,17 +584,17 @@
                                  <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/f13ae16a9d6c756734214827d8e458be.jpeg" alt="TIỆC CƯỚI NHÀ NAM">
                               </div>
                               <ul>
-                                 <li>16:00, 2024-12-01</li>
+                                 <li>10:00, 16-02-2025</li>
                                  <li style="min-height: 60px;">
-                                    <span>Nhà Văn Hóa Thôn Bài Trượng - </span>
-                                    Xã Hoàng Diệu - Huyện Chương Mỹ- TP Hà Nội
+                                    <span></span>
+                                    156 Ngô Quyền - TP Hải Dương - Hải Dương
                                  </li>
                                  <li> <a  href="https://maps.app.goo.gl/Mp1qEJ9aBpT82MMG9" target="_blank">xem bản đồ </a></li>
-                                 <li>
+                                 {{--  <li>
                                     <div class="calendar-button">
                                        <div class="atcb" style="display:none;">
                                           {
-                                          "name":"TIỆC CƯỚI NHÀ NAM (Đám cưới Đình Anh và Hoàng Yến)",
+                                          "name":"TIỆC CƯỚI NHÀ NAM (Đám cưới Đinh Hải và Cù Lan)",
                                           "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. Thông tin chi tiết xem tại website:<br>[url]https://dinhanhhoangyen.iwedding.info[/url]",
                                           "startDate":"2024-12-01",
                                           "endDate":"2024-12-01",
@@ -612,7 +610,7 @@
                                           }
                                        </div>
                                     </div>
-                                 </li>
+                                 </li>  --}}
                               </ul>
                            </div>
                            <div class="event-shape-1">
@@ -627,7 +625,7 @@
                </div>
             </div>
          </section>
-         <section class="donate-section section-padding section-bg-color" id="donate">
+         {{--  <section class="donate-section section-padding section-bg-color" id="donate">
             <div class="container">
                <div class="row">
                   <div class="wpo-section-title-s2">
@@ -667,7 +665,7 @@
                   </div>
                </div>
             </div>
-         </section>
+         </section>  --}}
          <section class="website_info">
             <div class="row button-accessibilities animate-box" data-animate-effect="fadeInUp">
                <div class="col col-12">
@@ -716,7 +714,7 @@
              });
              return parsed;
          }
-         let biicore = parseJsonRecursively('{"template_id":"62ef3cdcf106ea77bb276cc5","templatePremium":false,"themeRoot":"https:\/\/dinhanhhoangyen.iwedding.info\/templates\/template17","webroot":"https:\/\/dinhanhhoangyen.iwedding.info","coreSite":"https:\/\/biihappy.com","webToken":"6735a912bd76f0d27e090616","isPremium":false,"bgMusic":"https:\/\/cdn.biihappy.com\/ziiweb\/wedding-musics\/BeautifulInWhite-ShaneFilan-524801.mp3","alert":"[]","effect":"{\\\"type\\\":\\\"heart\\\"}","logo":"https:\/\/iwedding.info\/common\/imgs\/bii.png?v=20210131","url_landing_page":"/","isAutoPlay":true,"footer_title":"Chúc mừng hạnh phúc Đình Anh - Hoàng Yến","footer_title_mobile":"Chúc mừng hanh phúc Đình Anh - Hoàng Yến"}');
+         let biicore = parseJsonRecursively('{"template_id":"62ef3cdcf106ea77bb276cc5","templatePremium":false,"themeRoot":"https:\/\/dinhanhhoangyen.iwedding.info\/templates\/template17","webroot":"https:\/\/dinhanhhoangyen.iwedding.info","coreSite":"https:\/\/biihappy.com","webToken":"6735a912bd76f0d27e090616","isPremium":false,"bgMusic":"https:\/\/cdn.biihappy.com\/ziiweb\/wedding-musics\/BeautifulInWhite-ShaneFilan-524801.mp3","alert":"[]","effect":"{\\\"type\\\":\\\"heart\\\"}","logo":"https:\/\/iwedding.info\/common\/imgs\/bii.png?v=20210131","url_landing_page":"/","isAutoPlay":true,"footer_title":"Chúc mừng hạnh phúc Đinh Hải - Cù Lan","footer_title_mobile":"Chúc mừng hanh phúc Đinh Hải - Cù Lan"}');
       </script>
       <script src="https://dinhanhhoangyen.iwedding.info/templates/template17/js/jquery-plugin-collection.js?v=20241021"></script>
       <script src="https://dinhanhhoangyen.iwedding.info/common/calendar.js?v=20241021"></script>

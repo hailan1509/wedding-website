@@ -41,7 +41,7 @@
 	            <h2 class="text-center fs-1" style="font-family: 'Coiny', cursive;">Xác nhận tham dự</h2>
 	            <p class="text-center" style="font-family: 'Jura', sans-serif;font-size: 22px;">Đám cưới của</p>
 	            <div class="d-flex flex-wrap align-items-center justify-content-center">
-		            <h1><span>Đình Anh</span> <img height="50" src="https://dinhanhhoangyen.iwedding.info//album/heart.gif"> <span>Hoàng Yến</span></h1>
+		            <h1><span>Đinh Hải</span> <img height="50" src="https://dinhanhhoangyen.iwedding.info//album/heart.gif"> <span>Cù Lan</span></h1>
 		        </div>
 	            <p class="lead text-center mt-4 mb-0" style="font-family: 'Jura', sans-serif;">Để có thể xác nhận tham dự, bạn phải là người nhận được thiệp mời từ cô dâu và chú rể. Vui lòng tìm kiếm thiệp mời theo form bên dưới!</p>
 	            <div class="mt-4">

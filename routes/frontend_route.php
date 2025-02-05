@@ -20,17 +20,17 @@ Route::get('/invitation/{id}',function(Request $request,$id){
     $data['guest_name'] = $user->name;
     if($user->type == 0){
         $data['event_name'] = 'LỄ CƯỚI NHÀ NAM';
-        $data['event_time'] = '16:00 PM';
-        $data['event_date'] = 'Chủ nhật, NGÀY 01/12/2024';
-        $data['event_date_dot'] = '02.12.2024';
-        $data['event_address'] = 'Nhà Văn Hóa Thôn Bài Trượng, Xã Hoàng Diệu, Huyện Chương Mỹ, TP Hà Nội';
+        $data['event_time'] = '10:00 AM';
+        $data['event_date'] = 'Chủ nhật, NGÀY 16/02/2025';
+        $data['event_date_dot'] = '16.02.2025';
+        $data['event_address'] = '156 Ngô Quyền - TP Hải Dương - Hải Dương';
     }
     else{
         $data['event_name'] = 'LỄ CƯỚI NHÀ NỮ';
-        $data['event_time'] = '16:30 PM';
-        $data['event_date'] = 'Chủ nhật, NGÀY 01/12/2024';
-        $data['event_date_dot'] = '02.12.2024';
-        $data['event_address'] = 'Thôn Thành Sơn - Xã Thành Lộc - Hậu Lộc - Thanh';
+        $data['event_time'] = '10:00 AM';
+        $data['event_date'] = 'Chủ nhật, NGÀY 16/02/2025';
+        $data['event_date_dot'] = '16.02.2025';
+        $data['event_address'] = 'Thôn Kim Đôi - Xã Cẩm Hoàng - Cẩm Giàng - HD';
     }
     return view('thiepmoi',compact('data'));
 });
