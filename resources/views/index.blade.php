@@ -5,7 +5,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>Đinh Văn Hải &amp; Cù Thị Lan Wedding !</title>
-      <meta name="description" content="Đinh Văn Hải &amp; Cù Thị Lan - Our wedding date: 2025-02-16 | Một cuộc hôn nhân thành công đòi hỏi phải yêu nhiều lần, luôn ở cùng một người">
+      <meta name="description" content="Đinh Văn Hải &amp; Cù Thị Lan - Our wedding date: 16-02-2025">
       <meta name="keywords" content="Wedding, Wedding website, Website đám cưới, Đám cưới Đinh Hải - Cù Lan">
       <meta name="format-detection" content="telephone=no">
       <meta name="application-name" content="iWedding">
@@ -14,10 +14,10 @@
       <meta property="og:type" content="website">
       <meta property="og:title" content="Đinh Văn Hải &amp; Cù Thị Lan Wedding !">
       <meta property="og:url" content="https://dinhanhhoangyen.iwedding.info">
-      <meta property="og:description" content="Đinh Văn Hải &amp; Cù Thị Lan - Our wedding date: 2025-02-16 | Một cuộc hôn nhân thành công đòi hỏi phải yêu nhiều lần, luôn ở cùng một người">
-      <meta property="og:image" content="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/96bd34063222860361fff09bb2356664.jpeg">
-      <meta property="og:image:url" content="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/96bd34063222860361fff09bb2356664.jpeg">
-      <meta property="og:image:secure_url" content="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/96bd34063222860361fff09bb2356664.jpeg">
+      <meta property="og:description" content="Đinh Văn Hải &amp; Cù Thị Lan - Our wedding date: 16-02-2025">
+      <meta property="og:image" content="{{ asset('assets/frontend/image/anh-cuoi/slide-2.JPG') }}">
+      <meta property="og:image:url" content="{{ asset('assets/frontend/image/anh-cuoi/slide-2.JPG') }}">
+      <meta property="og:image:secure_url" content="{{ asset('assets/frontend/image/anh-cuoi/slide-2.JPG') }}">
       <link rel="shortcut icon" type="image/x-icon" href="https://iwedding.info/favicon.ico">
       <link href="https://dinhanhhoangyen.iwedding.info/templates/template17/css/libs.css?v=20241021" rel="stylesheet">
       <link href="https://dinhanhhoangyen.iwedding.info/common/calendar.css?v=20241021" rel="stylesheet">
@@ -325,7 +325,7 @@
                </div>
             </div>
          </section>  --}}
-         <div class="wpo-cta-section-s3 " style="background: url(https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/templates/62ef3cdcf106ea77bb276cc5/5a73cdcc2fea3207817a79d8cff3e34a.jpg) center center/cover no-repeat local;">
+         <div class="wpo-cta-section-s3 " style="background: url({{ asset('assets/frontend/image/anh-cuoi/bia.JPG') }}) top center/cover no-repeat local;">
             <div class="conatiner-fluid">
                <div class="wpo-cta-item">
                   <h2 class="font-family-title2">Adventure Begins</h2>
@@ -353,113 +353,113 @@
                         <div class="portfolio-grids gallery-container clearfix">
                            <script type="text/javascript">
                               photoGalleries.push({
-                                  src : "https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735ba2e2133e0e472068905/large.jpg",
-                                  thumb: "https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735ba2e2133e0e472068905/small.jpg",
+                                  src : "{{ asset('assets/frontend/image/anh-cuoi/album-1.JPG') }}",
+                                  thumb: "{{ asset('assets/frontend/image/anh-cuoi/album-1-rs.JPG') }}",
                                   subHtml: `<div class="lg-sub-html"><h4></h4></div>`
                               });
                            </script>
                            <div class="grid grid-item btn-see-more-gallery" data-index="0">
                               <div class="img-holder">
                                  <a href="javascript:void(0)">
-                                 <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735ba2e2133e0e472068905/small.jpg" alt class="img img-responsive">
+                                 <img src="{{ asset('assets/frontend/image/anh-cuoi/album-1-rs.JPG') }}" alt class="img img-responsive">
                                  </a>
                               </div>
                            </div>
                            <script type="text/javascript">
                               photoGalleries.push({
-                                  src : "https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735ba134fdccdb20f057ab1/large.jpg",
-                                  thumb: "https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735ba134fdccdb20f057ab1/small.jpg",
+                                 src : "{{ asset('assets/frontend/image/anh-cuoi/album-2.JPG') }}",
+                                 thumb: "{{ asset('assets/frontend/image/anh-cuoi/album-2-rs.JPG') }}",
                                   subHtml: `<div class="lg-sub-html"><h4></h4></div>`
                               });
                            </script>
                            <div class="grid grid-item btn-see-more-gallery" data-index="1">
                               <div class="img-holder">
                                  <a href="javascript:void(0)">
-                                 <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735ba134fdccdb20f057ab1/small.jpg" alt class="img img-responsive">
+                                 <img src="{{ asset('assets/frontend/image/anh-cuoi/album-2-rs.JPG') }}" alt class="img img-responsive">
                                  </a>
                               </div>
                            </div>
                            <script type="text/javascript">
                               photoGalleries.push({
-                                  src : "https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735ba1f3de4c0cdca04c8bb/large.jpg",
-                                  thumb: "https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735ba1f3de4c0cdca04c8bb/small.jpg",
+                                 src : "{{ asset('assets/frontend/image/anh-cuoi/album-3.JPG') }}",
+                                 thumb: "{{ asset('assets/frontend/image/anh-cuoi/album-3-rs.JPG') }}",
                                   subHtml: `<div class="lg-sub-html"><h4></h4></div>`
                               });
                            </script>
                            <div class="grid grid-item btn-see-more-gallery" data-index="2">
                               <div class="img-holder">
                                  <a href="javascript:void(0)">
-                                 <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735ba1f3de4c0cdca04c8bb/small.jpg" alt class="img img-responsive">
+                                 <img src="{{ asset('assets/frontend/image/anh-cuoi/album-3-rs.JPG') }}" alt class="img img-responsive">
                                  </a>
                               </div>
                            </div>
                            <script type="text/javascript">
                               photoGalleries.push({
-                                  src : "https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735ba0d64bd681cb90ca208/large.jpg",
-                                  thumb: "https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735ba0d64bd681cb90ca208/small.jpg",
+                                 src : "{{ asset('assets/frontend/image/anh-cuoi/album-4.JPG') }}",
+                                 thumb: "{{ asset('assets/frontend/image/anh-cuoi/album-4-rs.JPG') }}",
                                   subHtml: `<div class="lg-sub-html"><h4></h4></div>`
                               });
                            </script>
                            <div class="grid grid-item btn-see-more-gallery" data-index="3">
                               <div class="img-holder">
                                  <a href="javascript:void(0)">
-                                 <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735ba0d64bd681cb90ca208/small.jpg" alt class="img img-responsive">
+                                 <img src="{{ asset('assets/frontend/image/anh-cuoi/album-4-rs.JPG') }}" alt class="img img-responsive">
                                  </a>
                               </div>
                            </div>
                            <script type="text/javascript">
                               photoGalleries.push({
-                                  src : "https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735ba0603670486c3024065/large.jpg",
-                                  thumb: "https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735ba0603670486c3024065/small.jpg",
+                                 src : "{{ asset('assets/frontend/image/anh-cuoi/album-5.JPG') }}",
+                                 thumb: "{{ asset('assets/frontend/image/anh-cuoi/album-5-rs.JPG') }}",
                                   subHtml: `<div class="lg-sub-html"><h4></h4></div>`
                               });
                            </script>
                            <div class="grid grid-item btn-see-more-gallery" data-index="4">
                               <div class="img-holder">
                                  <a href="javascript:void(0)">
-                                 <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735ba0603670486c3024065/small.jpg" alt class="img img-responsive">
+                                 <img src="{{ asset('assets/frontend/image/anh-cuoi/album-5-rs.JPG') }}" alt class="img img-responsive">
                                  </a>
                               </div>
                            </div>
                            <script type="text/javascript">
                               photoGalleries.push({
-                                  src : "https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735b9e7d3b1c36c10009117/large.jpg",
-                                  thumb: "https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735b9e7d3b1c36c10009117/small.jpg",
+                                 src : "{{ asset('assets/frontend/image/anh-cuoi/album-6.JPG') }}",
+                                 thumb: "{{ asset('assets/frontend/image/anh-cuoi/album-6-rs.JPG') }}",
                                   subHtml: `<div class="lg-sub-html"><h4></h4></div>`
                               });
                            </script>
                            <div class="grid grid-item btn-see-more-gallery" data-index="5">
                               <div class="img-holder">
                                  <a href="javascript:void(0)">
-                                 <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735b9e7d3b1c36c10009117/small.jpg" alt class="img img-responsive">
+                                 <img src="{{ asset('assets/frontend/image/anh-cuoi/album-6-rs.JPG') }}" alt class="img img-responsive">
                                  </a>
                               </div>
                            </div>
                            <script type="text/javascript">
                               photoGalleries.push({
-                                  src : "https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735b9f626eb613e860ec42f/large.jpg",
-                                  thumb: "https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735b9f626eb613e860ec42f/small.jpg",
+                                 src : "{{ asset('assets/frontend/image/anh-cuoi/album-7.JPG') }}",
+                                 thumb: "{{ asset('assets/frontend/image/anh-cuoi/album-7-rs.JPG') }}",
                                   subHtml: `<div class="lg-sub-html"><h4></h4></div>`
                               });
                            </script>
                            <div class="grid grid-item btn-see-more-gallery" data-index="6">
                               <div class="img-holder">
                                  <a href="javascript:void(0)">
-                                 <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735b9f626eb613e860ec42f/small.jpg" alt class="img img-responsive">
+                                 <img src="{{ asset('assets/frontend/image/anh-cuoi/album-7-rs.JPG') }}" alt class="img img-responsive">
                                  </a>
                               </div>
                            </div>
                            <script type="text/javascript">
                               photoGalleries.push({
-                                  src : "https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735b9de11f4bbc6f40e6656/large.jpg",
-                                  thumb: "https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735b9de11f4bbc6f40e6656/small.jpg",
+                                 src : "{{ asset('assets/frontend/image/anh-cuoi/album-8.JPG') }}",
+                                 thumb: "{{ asset('assets/frontend/image/anh-cuoi/album-8-rs.JPG') }}",
                                   subHtml: `<div class="lg-sub-html"><h4></h4></div>`
                               });
                            </script>
                            <div class="grid grid-item btn-see-more-gallery" data-index="7">
                               <div class="img-holder">
                                  <a href="javascript:void(0)">
-                                 <img src="https://cdn.biihappy.com/ziiweb/website/6735a912bd76f0d27e090616/galleries/6735b9de11f4bbc6f40e6656/small.jpg" alt class="img img-responsive">
+                                 <img src="{{ asset('assets/frontend/image/anh-cuoi/album-8-rs.JPG') }}" alt class="img img-responsive">
                                  </a>
                               </div>
                            </div>
@@ -534,7 +534,7 @@
                            <div class="wpo-event-text">
                               <h2 style="margin-bottom:10px">LỄ THÀNH HÔN</h2>
                               <div class="image-wrap">
-                                 <img src="{{ asset('assets/frontend/image/anh-cuoi/anh-doi.JPG') }}" alt="LỄ THÀNH HÔN">
+                                 <img src="{{ asset('assets/frontend/image/anh-cuoi/album-8-rs.JPG') }}" alt="LỄ THÀNH HÔN">
                               </div>
                               <ul>
                                  <li>14:00, 16-02-2025</li>

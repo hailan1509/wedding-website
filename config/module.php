@@ -5,7 +5,8 @@ return [
     'guest' => [
         'type' => [
             '0' => 'Nhà Trai',
-            '1' => 'Nhà Gái'
+            '1' => 'Nhà Gái',
+            '3' => 'Nhà Trai buổi chiều'
         ]
     ],
     'socket' => [

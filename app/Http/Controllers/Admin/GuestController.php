@@ -63,6 +63,9 @@ class GuestController extends Controller
                     if($row->type == 0){
                         return "Nhà Trai";
                     }
+                    if($row->type == 3){
+                        return "Nhà Trai buổi chiều";
+                    }
                     return "Nhà Gái";
                 })
                 ->addColumn('link', function($row) use($host) {
