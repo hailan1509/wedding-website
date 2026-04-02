@@ -69,6 +69,12 @@ mix.copyDirectory('resources/metronic/media', 'public/media');
 });
 
 mix.webpackConfig({
+    resolve: {
+        alias: {
+            // Linux is case-sensitive; normalize legacy imports like "jQuery".
+            jQuery: 'jquery',
+        },
+    },
     plugins: [
         new ReplaceInFileWebpackPlugin([
             {
