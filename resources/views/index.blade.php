@@ -73,14 +73,17 @@
                                  <li class="menu-item-has-children">
                                     <a href="#couple">Cặp đôi</a>
                                  </li>
-                                 {{--  <li class="menu-item-has-children">
+                                 <li class="menu-item-has-children">
                                     <a href="#story">Chuyện tình yêu</a>
-                                 </li>  --}}
+                                 </li> 
                                  <li class="menu-item-has-children">
                                     <a href="#gallery">Album Hình Cưới</a>
                                  </li>
                                  <li class="menu-item-has-children">
                                     <a href="#event">Sự kiện cưới</a>
+                                 </li>
+                                 <li class="menu-item-has-children">
+                                    <a href="#donate">Hộp mừng cưới</a>
                                  </li>
                               </ul>
                            </div>
@@ -221,7 +224,7 @@
                </div>
             </div>
          </section>  --}}
-         {{--  <section class="story-section section-padding" >
+         <section class="story-section section-padding" >
             <div class="_anchor" id="story"></div>
             <div class="container">
                <div class="row">
@@ -324,7 +327,7 @@
                   </div>
                </div>
             </div>
-         </section>  --}}
+         </section>
          <div class="wpo-cta-section-s3 " style="background: url({{ asset('assets/frontend/image/anh-cuoi/bia.JPG') }}) top center/cover no-repeat local;">
             <div class="conatiner-fluid">
                <div class="wpo-cta-item">
@@ -622,7 +625,7 @@
                </div>
             </div>
          </section>
-         {{--  <section class="donate-section section-padding section-bg-color" id="donate">
+         <section class="donate-section section-padding section-bg-color" id="donate">
             <div class="container">
                <div class="row">
                   <div class="wpo-section-title-s2">
@@ -662,7 +665,7 @@
                   </div>
                </div>
             </div>
-         </section>  --}}
+         </section>
          <section class="website_info">
             <div class="row button-accessibilities animate-box" data-animate-effect="fadeInUp">
                <div class="col col-12">
