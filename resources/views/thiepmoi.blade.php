@@ -8,7 +8,7 @@
     <title>Kính gửi {{$data['guest_name']}} ! - Thiệp mời đám cưới online</title>
     <meta name="description" content="Trân trọng kính mời {{$data['guest_name']}} đến tham dự buổi tiệc chung vui cùng gia đình chúng tôi!" />
     <meta name="keywords" content="Wedding, Wedding website, Website đám cưới, Tạo website đám cưới miễn phí" />
-    <meta property="og:site_name" content="Đinh Hải &amp; Cù Lan Wedding site!">
+    <meta property="og:site_name" content="Việt Hưng &amp; Minh Thuý Wedding site!">
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Thân gửi {{$data['guest_name']}} ! - Thiệp mời đám cưới online" />
     <meta property="og:url" content="{{ request()->fullUrl() }}" />
@@ -474,10 +474,10 @@
     const venue_name = '{{$data['event_address']}}';
     const invitationInfo = {
         'templateID': 'h4',
-        'groom_name': 'Đinh Văn Hải',
-        'bride_name': 'Cù Thị Lan',
-        'groom_name_short': 'Đinh Hải',
-        'bride_name_short': 'Cù Lan',
+        'groom_name': 'Việt Hưng',
+        'bride_name': 'Minh Thuý',
+        'groom_name_short': 'Việt Hưng',
+        'bride_name_short': 'Minh Thuý',
         'groom_name_one': 'A',
         'bride_name_one': 'Y',
         'guest_name': guest_name,

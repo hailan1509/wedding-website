@@ -6,8 +6,8 @@
       <meta name="author" content="Biihappy">
       <title>Kính gửi {{$data['guest_name']}} ! - Thiệp mời đám cưới online</title>
       <meta name="description" content="Trân trọng kính mời {{$data['guest_name']}} đến tham dự buổi tiệc chung vui cùng gia đình chúng tôi!" />
-      <meta name="keywords" content="Wedding, Wedding website, Website đám cưới, Đám cưới Đinh Hải - Cù Lan" />
-      <meta property="og:site_name" content="Nguyễn Đinh Hải &amp; Lê Nguyễn Cù Lan Wedding !">
+      <meta name="keywords" content="Wedding, Wedding website, Website đám cưới, Đám cưới Việt Hưng - Minh Thuý" />
+      <meta property="og:site_name" content="Nguyễn Việt Hưng &amp; Lê Nguyễn Minh Thuý Wedding !">
       <meta property="og:type" content="website" />
       <meta property="og:title" content="Kính gửi {{$data['guest_name']}} ! - Thiệp mời đám cưới online" />
       <meta property="og:url" content="https://dinhanhhoangyen.iwedding.info/invitation/6735c59dd3b1c36c1000911d" />
@@ -50,10 +50,10 @@
          const venue_name = '{{$data['event_address']}}';
          const invitationInfo = {
          	'templateID': 'h4',
-         	'groom_name': 'Nguyễn Đinh Hải',
-         	'bride_name': 'Lê Nguyễn Cù Lan',
-         	'groom_name_short': 'Đinh Hải',
-         	'bride_name_short': 'Cù Lan',
+         	'groom_name': 'Nguyễn Việt Hưng',
+         	'bride_name': 'Lê Nguyễn Minh Thuý',
+         	'groom_name_short': 'Việt Hưng',
+         	'bride_name_short': 'Minh Thuý',
          	'groom_name_one': 'A',
          	'bride_name_one': 'Y',
          	'guest_name': guest_name,

@@ -4,17 +4,17 @@
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>Đinh Văn Hải &amp; Cù Thị Lan Wedding !</title>
-      <meta name="description" content="Đinh Văn Hải &amp; Cù Thị Lan - Our wedding date: 16-02-2025">
-      <meta name="keywords" content="Wedding, Wedding website, Website đám cưới, Đám cưới Đinh Hải - Cù Lan">
+      <title>Việt Hưng &amp; Minh Thuý Wedding !</title>
+      <meta name="description" content="Việt Hưng &amp; Minh Thuý - Our wedding date: 16-02-2025">
+      <meta name="keywords" content="Wedding, Wedding website, Website đám cưới, Đám cưới Việt Hưng - Minh Thuý">
       <meta name="format-detection" content="telephone=no">
       <meta name="application-name" content="iWedding">
       <meta name="author" content="Biihappy.com">
-      <meta property="og:site_name" content="Đinh Văn Hải &amp; Cù Thị Lan">
+      <meta property="og:site_name" content="Việt Hưng &amp; Minh Thuý">
       <meta property="og:type" content="website">
-      <meta property="og:title" content="Đinh Văn Hải &amp; Cù Thị Lan Wedding !">
+      <meta property="og:title" content="Việt Hưng &amp; Minh Thuý Wedding !">
       <meta property="og:url" content="https://dinhanhhoangyen.iwedding.info">
-      <meta property="og:description" content="Đinh Văn Hải &amp; Cù Thị Lan - Our wedding date: 16-02-2025">
+      <meta property="og:description" content="Việt Hưng &amp; Minh Thuý - Our wedding date: 16-02-2025">
       <meta property="og:image" content="{{ asset('assets/frontend/image/anh-cuoi/slide-2.JPG') }}">
       <meta property="og:image:url" content="{{ asset('assets/frontend/image/anh-cuoi/slide-2.JPG') }}">
       <meta property="og:image:secure_url" content="{{ asset('assets/frontend/image/anh-cuoi/slide-2.JPG') }}">
@@ -59,7 +59,7 @@
                         <div class="col-lg-2 col-md-6 col-6">
                            <div class="navbar-header">
                               <a href="/">
-                                 <h1 style="font-size:25px">ĐH<span class="main-color" ><i class="fa fa-heart" style="margin:5px 5px 5px 10px;" ></i></span>CL</h1>
+                                 <h1 style="font-size:25px">VH<span class="main-color" ><i class="fa fa-heart" style="margin:5px 5px 5px 10px;" ></i></span>MT</h1>
                               </a>
                            </div>
                         </div>
@@ -98,7 +98,7 @@
                         <div class="container-fluid">
                            <div class="slide-content">
                               <div data-swiper-parallax="300" class="slide-title">
-                                 <h2 class="font-size-slide-content font-family-title1">Đinh Hải <i class="ti-heart"></i> Cù Lan</h2>
+                                 <h2 class="font-size-slide-content font-family-title1">Việt Hưng <i class="ti-heart"></i> Minh Thuý</h2>
                               </div>
                               <div data-swiper-parallax="400" class="slide-text">
                                  <p>We’re Getting Married!</p>
@@ -119,7 +119,7 @@
                         <div class="container-fluid">
                            <div class="slide-content">
                               <div data-swiper-parallax="300" class="slide-title">
-                                 <h2 class="font-size-slide-content font-family-title1">Đinh Hải <i class="ti-heart"></i> Cù Lan</h2>
+                                 <h2 class="font-size-slide-content font-family-title1">Việt Hưng <i class="ti-heart"></i> Minh Thuý</h2>
                               </div>
                               <div data-swiper-parallax="400" class="slide-text">
                                  <p>We’re Getting Married!</p>
@@ -140,7 +140,7 @@
                         <div class="container-fluid">
                            <div class="slide-content">
                               <div data-swiper-parallax="300" class="slide-title">
-                                 <h2 class="font-size-slide-content font-family-title1">Đinh Hải <i class="ti-heart"></i> Cù Lan</h2>
+                                 <h2 class="font-size-slide-content font-family-title1">Việt Hưng <i class="ti-heart"></i> Minh Thuý</h2>
                               </div>
                               <div data-swiper-parallax="400" class="slide-text">
                                  <p>We’re Getting Married!</p>
@@ -184,7 +184,7 @@
                            <div class="couple-img">
                               <img src="{{ asset('assets/frontend/image/anh-cuoi/chu_re.JPG') }}" alt="">
                            </div>
-                           <h3 class="font-family-title2 text-center">Đinh Văn Hải</h3>
+                           <h3 class="font-family-title2 text-center">Việt Hưng</h3>
                            {{--  <p>Là kỹ sư điện hiện đang công tác tại Hà Nội. Là một người hiền lành và ít nói. Luôn coi trọng tình cảm và yêu thương gia đình. Với anh: “Gia đình là điểm tựa vững chắc nhất và là bến đỗ bình yên không đâu sánh bằng đối với mỗi con người. Đó luôn là nơi tràn ngập tình yêu thương để ta trở về.”</p>  --}}
                            <div class="social">
                               <ul>
@@ -199,7 +199,7 @@
                            <div class="couple-img">
                               <img src="{{ asset('assets/frontend/image/anh-cuoi/co_dau.JPG') }}" alt="">
                            </div>
-                           <h3 class="font-family-title2 text-center" >Cù Thị Lan</h3>
+                           <h3 class="font-family-title2 text-center" >Minh Thuý</h3>
                            {{--  <p>Cô gái đến từ xứ Thanh, hiện đang sinh sống và làm việc tại Hà Nội. Là một người hay cười nhưng lại sống nội tâm, thích đọc sách, trồng cây và yêu thiên nhiên. Ngoài ra còn rất thích vẽ vời, nuôi mèo và nuôi ước mơ có cho mình một vườn hồng khoe sắc.  --}}
                            </p>
                            <div class="social">
@@ -502,7 +502,7 @@
                                     <div class="calendar-button">
                                        <div class="atcb" style="display:none;">
                                           {
-                                          "name":"TIỆC CƯỚI NHÀ NỮ (Đám cưới Đinh Hải và Cù Lan)",
+                                          "name":"TIỆC CƯỚI NHÀ NỮ (Đám cưới Việt Hưng và Minh Thuý)",
                                           "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. Thông tin chi tiết xem tại website:<br>[url]https://dinhanhhoangyen.iwedding.info[/url]",
                                           "startDate":"2024-12-01",
                                           "endDate":"2024-12-01",
@@ -546,7 +546,7 @@
                                     <div class="calendar-button">
                                        <div class="atcb" style="display:none;">
                                           {
-                                          "name":"LỄ THÀNH HÔN (Đám cưới Đinh Hải và Cù Lan)",
+                                          "name":"LỄ THÀNH HÔN (Đám cưới Việt Hưng và Minh Thuý)",
                                           "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. Thông tin chi tiết xem tại website:<br>[url]https://dinhanhhoangyen.iwedding.info[/url]",
                                           "startDate":"2025-02-16",
                                           "endDate":"2025-02-16",
@@ -591,7 +591,7 @@
                                     <div class="calendar-button">
                                        <div class="atcb" style="display:none;">
                                           {
-                                          "name":"TIỆC CƯỚI NHÀ NAM (Đám cưới Đinh Hải và Cù Lan)",
+                                          "name":"TIỆC CƯỚI NHÀ NAM (Đám cưới Việt Hưng và Minh Thuý)",
                                           "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. Thông tin chi tiết xem tại website:<br>[url]https://dinhanhhoangyen.iwedding.info[/url]",
                                           "startDate":"2024-12-01",
                                           "endDate":"2024-12-01",
@@ -711,7 +711,7 @@
              });
              return parsed;
          }
-         let biicore = parseJsonRecursively('{"template_id":"62ef3cdcf106ea77bb276cc5","templatePremium":false,"themeRoot":"https:\/\/dinhanhhoangyen.iwedding.info\/templates\/template17","webroot":"https:\/\/dinhanhhoangyen.iwedding.info","coreSite":"https:\/\/biihappy.com","webToken":"6735a912bd76f0d27e090616","isPremium":false,"bgMusic":"https:\/\/cdn.biihappy.com\/ziiweb\/wedding-musics\/BeautifulInWhite-ShaneFilan-524801.mp3","alert":"[]","effect":"{\\\"type\\\":\\\"heart\\\"}","logo":"https:\/\/iwedding.info\/common\/imgs\/bii.png?v=20210131","url_landing_page":"/","isAutoPlay":true,"footer_title":"Chúc mừng hạnh phúc Đinh Hải - Cù Lan","footer_title_mobile":"Chúc mừng hanh phúc Đinh Hải - Cù Lan"}');
+         let biicore = parseJsonRecursively('{"template_id":"62ef3cdcf106ea77bb276cc5","templatePremium":false,"themeRoot":"https:\/\/dinhanhhoangyen.iwedding.info\/templates\/template17","webroot":"https:\/\/dinhanhhoangyen.iwedding.info","coreSite":"https:\/\/biihappy.com","webToken":"6735a912bd76f0d27e090616","isPremium":false,"bgMusic":"https:\/\/cdn.biihappy.com\/ziiweb\/wedding-musics\/BeautifulInWhite-ShaneFilan-524801.mp3","alert":"[]","effect":"{\\\"type\\\":\\\"heart\\\"}","logo":"https:\/\/iwedding.info\/common\/imgs\/bii.png?v=20210131","url_landing_page":"/","isAutoPlay":true,"footer_title":"Chúc mừng hạnh phúc Việt Hưng - Minh Thuý","footer_title_mobile":"Chúc mừng hanh phúc Việt Hưng - Minh Thuý"}');
       </script>
       <script src="https://dinhanhhoangyen.iwedding.info/templates/template17/js/jquery-plugin-collection.js?v=20241021"></script>
       <script src="https://dinhanhhoangyen.iwedding.info/common/calendar.js?v=20241021"></script>

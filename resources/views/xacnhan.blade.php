@@ -5,12 +5,12 @@
 	<meta charset="utf-8">
 	<meta name="author" content="Biihappy">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	<title>Đinh Hải & Cù Lan - Xác nhận tham dự</title>
+	<title>Việt Hưng & Minh Thuý - Xác nhận tham dự</title>
 	<meta name="description" content="Để có thể xác nhận tham dự, bạn phải là người nhận được thiệp mời từ cô dâu và chú rể. Vui lòng tìm kiếm thiệp mời theo form bên dưới!" />
 	<meta name="keywords" content="Wedding, Wedding website, Website đám cưới, Tạo website đám cưới miễn phí" />
-	<meta property="og:site_name" content="Đinh Hải &amp; Cù Lan Wedding site!">
+	<meta property="og:site_name" content="Việt Hưng &amp; Minh Thuý Wedding site!">
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Đinh Hải & Cù Lan - Xác nhận tham dự" />
+	<meta property="og:title" content="Việt Hưng & Minh Thuý - Xác nhận tham dự" />
 	<meta property="og:url" content="https://dinhanhhoangyen.iwedding.info//rsvp" />
 	<meta property="og:description" content="Để có thể xác nhận tham dự, bạn phải là người nhận được thiệp mời từ cô dâu và chú rể. Vui lòng tìm kiếm thiệp mời theo form bên dưới!" />
 	<meta property="og:image" content="https://cdn.biihappy.com/ziiweb/website/65203311c4a03f7aa5055074/e62d3e33e3c8cbe31d0d6a5eb8e32799.jpeg" />
@@ -41,7 +41,7 @@
 	            <h2 class="text-center fs-1" style="font-family: 'Coiny', cursive;">Xác nhận tham dự</h2>
 	            <p class="text-center" style="font-family: 'Jura', sans-serif;font-size: 22px;">Đám cưới của</p>
 	            <div class="d-flex flex-wrap align-items-center justify-content-center">
-		            <h1><span>Đinh Hải</span> <img height="50" src="https://dinhanhhoangyen.iwedding.info//album/heart.gif"> <span>Cù Lan</span></h1>
+		            <h1><span>Việt Hưng</span> <img height="50" src="https://dinhanhhoangyen.iwedding.info//album/heart.gif"> <span>Minh Thuý</span></h1>
 		        </div>
 	            <p class="lead text-center mt-4 mb-0" style="font-family: 'Jura', sans-serif;">Để có thể xác nhận tham dự, bạn phải là người nhận được thiệp mời từ cô dâu và chú rể. Vui lòng tìm kiếm thiệp mời theo form bên dưới!</p>
 	            <div class="mt-4">
