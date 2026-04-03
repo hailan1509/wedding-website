@@ -714,7 +714,7 @@
              });
              return parsed;
          }
-         let biicore = parseJsonRecursively('{"template_id":"62ef3cdcf106ea77bb276cc5","templatePremium":false,"themeRoot":"https:\/\/dinhanhhoangyen.iwedding.info\/templates\/template17","webroot":"https:\/\/dinhanhhoangyen.iwedding.info","coreSite":"https:\/\/biihappy.com","webToken":"6735a912bd76f0d27e090616","isPremium":false,"bgMusic":"https:\/\/cdn.biihappy.com\/ziiweb\/wedding-musics\/BeautifulInWhite-ShaneFilan-524801.mp3","alert":"[]","effect":"{\\\"type\\\":\\\"heart\\\"}","logo":"https:\/\/iwedding.info\/common\/imgs\/bii.png?v=20210131","url_landing_page":"/","isAutoPlay":true,"footer_title":"Chúc mừng hạnh phúc Việt Hưng - Minh Thuý","footer_title_mobile":"Chúc mừng hanh phúc Việt Hưng - Minh Thuý"}');
+         let biicore = parseJsonRecursively('{"template_id":"62ef3cdcf106ea77bb276cc5","templatePremium":false,"themeRoot":"https:\/\/dinhanhhoangyen.iwedding.info\/templates\/template17","webroot":"https:\/\/dinhanhhoangyen.iwedding.info","coreSite":"https:\/\/biihappy.com","webToken":"6735a912bd76f0d27e090616","isPremium":false,"bgMusic":"https:\/\/cdn.biihappy.com\/ziiweb\/wedding-musics\/BeautifulInWhite-ShaneFilan-524801.mp3","alert":"[]","effect":"{\\\"type\\\":\\\"heart\\\"}","logo":"https:\/\/iwedding.info\/common\/imgs\/bii.png?v=20210131","url_landing_page":"/","isAutoPlay":true,"footer_title":"Mừng hạnh phúc Việt Hưng - Minh Thuý","footer_title_mobile":"Mừng hạnh phúc Việt Hưng - Minh Thuý"}');
       </script>
       <script src="https://dinhanhhoangyen.iwedding.info/templates/template17/js/jquery-plugin-collection.js?v=20241021"></script>
       <script src="https://dinhanhhoangyen.iwedding.info/common/calendar.js?v=20241021"></script>
